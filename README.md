@@ -1,6 +1,6 @@
 ### Hi, there! I'm Raddi. 
 
-I'm a junior programmer and software developer, working on expanding my portfolio and always learning new things. 
+I'm a junior programmer and software developer, working on expanding my portfolio. 
 A couple of projects I've worked on so far can be found at: 
 
 https://java-sipped.herokuapp.com/ A collaborative group project completed at Launch Academy, Boston.
