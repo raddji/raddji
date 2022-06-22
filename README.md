@@ -7,7 +7,7 @@ https://java-sipped.herokuapp.com/ A collaborative group project completed at La
 
 http://memo-trip.herokuapp.com/ A digital memory scrapbook I'm working on in order to hone down my JavaScript, React, Expess, Node.js, Postgres skills.
 
-Please, reach me at raddji@gmail.com 
+You can reach me at **raddji at gmail** <br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raddji&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
