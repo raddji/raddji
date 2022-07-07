@@ -10,8 +10,6 @@ http://memo-trip.herokuapp.com/ A digital memory scrapbook I'm working on in ord
 
 http://stormtides.org/ A web application created in a two person collaborative team for the non-profit organization Center for Coastal Studies on Cape Cod, MA. It showcases data on storm tide pathways, flooding and inundation, serving numerous communities.
 
-I am also currently a student at [Launch School](https://www.launchschool.com) following a methodology based in mastery and proficiency of fundamentals. 
-
 You can reach me at **raddji at gmail** <br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raddji&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
