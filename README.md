@@ -6,9 +6,9 @@ A couple of projects I've worked on so far can be found at:
 
 https://java-sipped.herokuapp.com/ A collaborative group project completed at Launch Academy, Boston.
 
-http://memo-trip.herokuapp.com/ A digital memory scrapbook I'm working on in order to hone down my JavaScript, React, Expess, Node.js, Postgres skills.
+https://memo-trip.herokuapp.com/ A digital memory scrapbook I'm working on in order to hone down my JavaScript, React, Expess, Node.js, Postgres skills.
 
-http://stormtides.org/ A web application created in a two person collaborative team for the non-profit organization Center for Coastal Studies on Cape Cod, MA. It showcases data on storm tide pathways, flooding and inundation, serving numerous communities.
+https://stormtides.org/ A web application created in a two person collaborative team for the non-profit organization Center for Coastal Studies on Cape Cod, MA. It showcases data on storm tide pathways, flooding and inundation, serving numerous communities.
 
 You can reach me at **raddji at gmail** <br />
 
