@@ -1,12 +1,14 @@
 <h3> Hi, there! :wave:  I'm Raddi. </h3>
 
-I'm a junior programmer and software developer, working on expanding my skills, knowledge and portfolio. 
+I'm a junior software developer, open and searching for my first full time position. 
 
 A couple of projects I've worked on so far can be found at: 
 
-https://memo-trip.herokuapp.com/ A digital memory scrapbook I'm working on in order to hone down my JavaScript, React, Expess, Node.js, Postgres SQL skills.
+https://java-sipped.herokuapp.com/ An application reviewing different businesses completed as part of a group.
 
-https://stormtides.org/ A data driven web application created in a two person collaborative team for the non-profit organization Center for Coastal Studies on Cape Cod, MA. It showcases storm tide pathways, flooding and inundation points, serving numerous communities. Currently being updated with React, Typescript and Leaflet-React.
+https://memo-trip.herokuapp.com/ A digital memory scrapbook application that mainly uses JavaScript, React, Expess, Node.js, Postgres SQL.
+
+https://stormtides.org/ A data driven web application created in a two person collaborative team for the non-profit organization Center for Coastal Studies on Cape Cod, MA. It showcases storm tide pathways, flooding and inundation points, serving numerous communities. Currently working on updating it with React, Typescript and Leaflet-React.
 
 You can reach me at **raddji at gmail** <br />
 
