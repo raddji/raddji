@@ -4,11 +4,11 @@ I'm a junior software developer, open and searching for my first full time posit
 
 A couple of projects I've worked on so far can be found at: 
 
-https://java-sipped.herokuapp.com/ An application reviewing different businesses completed as part of a group.
+https://java-sipped.herokuapp.com/ A review application completed as a group project.
 
-https://memo-trip.herokuapp.com/ A digital memory scrapbook application that mainly uses JavaScript, React, Expess, Node.js, Postgres SQL.
+https://memo-trip.herokuapp.com/ A digital memory scrapbook.
 
-https://stormtides.org/ A data driven web application created in a two person collaborative team for the non-profit organization Center for Coastal Studies on Cape Cod, MA. It showcases storm tide pathways, flooding and inundation points, serving numerous communities. Currently working on updating it with React, Typescript and Leaflet-React.
+https://stormtides.org/ A data driven web application for the non-profit organization Center for Coastal Studies on Cape Cod, MA.
 
 You can reach me at **raddji at gmail** <br />
 
